@@ -1,0 +1,16 @@
+{
+  "motorCicles": [
+    {
+      "image": "https://images.unsplash.com/photo-1558981001-792f6c0d5068?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW90b3JjaWNsZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=400&q=60",
+      "title": "harley davidson",
+      "price": "12000",
+      "id": 1
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1473147437169-91ac8cebc017?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bW90b3JjaWNsZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=400&q=60",
+      "title": "harley",
+      "price": "15000",
+      "id": 2
+    }
+  ]
+}
